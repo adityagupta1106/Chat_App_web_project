@@ -8,8 +8,9 @@ import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
     // USE YOUR FIREBASE APP CREDENTAILS HERE
-      apiKey: "AIzaSyCL7fKlrR9NZu7xkwkgLbz3QJMHd5TLKo8",
+     apiKey: "AIzaSyCL7fKlrR9NZu7xkwkgLbz3QJMHd5TLKo8",
   authDomain: "chat-app1-ada1e.firebaseapp.com",
+  databaseURL: "https://chat-app1-ada1e-default-rtdb.firebaseio.com",
   projectId: "chat-app1-ada1e",
   storageBucket: "chat-app1-ada1e.appspot.com",
   messagingSenderId: "214018007999",
