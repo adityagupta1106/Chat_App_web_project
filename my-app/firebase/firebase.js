@@ -10,7 +10,7 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDXX7UbeHnSZl36RwudveLyjJUVlLl3ctE",
+apiKey: "AIzaSyDXX7UbeHnSZl36RwudveLyjJUVlLl3ctE",
   authDomain: "chat-app-4152e.firebaseapp.com",
   projectId: "chat-app-4152e",
   storageBucket: "chat-app-4152e.appspot.com",
